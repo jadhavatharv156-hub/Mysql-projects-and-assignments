@@ -1,2 +1,10 @@
 # Mysql-projects-and-assignments
-Documenting my SQL learning journey through daily practice, assignments, and hands-on database exercises.
+Welcome to my SQL Learning Journey repository! This repository contains my daily SQL assignments, practice queries, notes, and solutions. The goal is to strengthen my database and data analysis skills through consistent hands-on practice.
+
+## Topics Covered
+- SQL Basics
+- SELECT, WHERE, ORDER BY
+- Aggregate Functions
+- GROUP BY and HAVING
+- Subqueries
+- Views
