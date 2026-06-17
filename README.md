@@ -8,3 +8,5 @@ Welcome to my SQL Learning Journey repository! This repository contains my daily
 - GROUP BY and HAVING
 - Subqueries
 - Views
+- windows function
+- constraints
