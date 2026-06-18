@@ -10,3 +10,5 @@ Welcome to my SQL Learning Journey repository! This repository contains my daily
 - Views
 - windows function
 - constraints
+- commands
+- cases
