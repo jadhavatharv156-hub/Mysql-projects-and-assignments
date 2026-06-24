@@ -4,6 +4,7 @@ Welcome to my SQL Learning Journey repository! This repository contains my daily
 ## Topics Covered
 - SQL Basics
 - SELECT, WHERE, ORDER BY
+- Cases
 - Aggregate Functions
 - GROUP BY and HAVING
 - Subqueries
@@ -11,4 +12,4 @@ Welcome to my SQL Learning Journey repository! This repository contains my daily
 - windows function
 - constraints
 - commands
-- cases
+- joins
