@@ -13,3 +13,5 @@ Welcome to my SQL Learning Journey repository! This repository contains my daily
 - constraints
 - commands
 - joins
+- Union and Union all
+- Distinct and CTE(common table expression)
