@@ -14,4 +14,6 @@ Welcome to my SQL Learning Journey repository! This repository contains my daily
 - commands
 - joins
 - Union and Union all
+- trigger
 - Distinct and CTE(common table expression)
+- Stored Procedure
